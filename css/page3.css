@@ -6,6 +6,7 @@ body {
   background: #000;
   color: #fff;
   font-family: sans-serif;
+  overflow: hidden;
 }
 .banner {
   width: 100%;
@@ -91,7 +92,7 @@ nav ul li a {
 }
 
 .robot img {
-  height: 99%;
+  height: 100%;
 }
 .robot h1 {
   position: absolute;
