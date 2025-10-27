@@ -19,6 +19,7 @@ body {
 .right-box {
   flex-basis: 80%;
   position: relative;
+  overflow: hidden;
 }
 .logo {
   width: 150px;
@@ -91,7 +92,7 @@ nav ul li a {
 }
 
 .robot img {
-  height: 99%;
+  height: 100%;
 }
 .robot h1 {
   position: absolute;
